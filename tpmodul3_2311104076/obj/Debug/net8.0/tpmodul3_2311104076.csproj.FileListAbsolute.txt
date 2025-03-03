@@ -1,0 +1,15 @@
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\bin\Debug\net8.0\tpmodul3_2311104076.exe
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\bin\Debug\net8.0\tpmodul3_2311104076.deps.json
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\bin\Debug\net8.0\tpmodul3_2311104076.runtimeconfig.json
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\bin\Debug\net8.0\tpmodul3_2311104076.dll
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\bin\Debug\net8.0\tpmodul3_2311104076.pdb
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\tpmodul3_2311104076.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\tpmodul3_2311104076.AssemblyInfoInputs.cache
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\tpmodul3_2311104076.AssemblyInfo.cs
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\tpmodul3_2311104076.csproj.CoreCompileInputs.cache
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\tpmodul3_2311104076.sourcelink.json
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\tpmodul3_2311104076.dll
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\refint\tpmodul3_2311104076.dll
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\tpmodul3_2311104076.pdb
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\tpmodul3_2311104076.genruntimeconfig.cache
+D:\SEM 4\Praktikum KPL\tpmodul3_2311104076\tpmodul3_2311104076\obj\Debug\net8.0\ref\tpmodul3_2311104076.dll
