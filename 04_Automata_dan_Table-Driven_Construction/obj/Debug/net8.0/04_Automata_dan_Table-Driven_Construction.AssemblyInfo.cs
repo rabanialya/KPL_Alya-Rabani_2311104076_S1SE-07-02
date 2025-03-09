@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04_Automata_dan_Table-Driven_Construction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3938e2e51466eee4ff0a75cafdec9c7ec44d35f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("04_Automata_dan_Table-Driven_Construction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04_Automata_dan_Table-Driven_Construction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

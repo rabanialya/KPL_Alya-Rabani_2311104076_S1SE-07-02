@@ -1,0 +1,15 @@
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\bin\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.exe
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\bin\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.deps.json
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\bin\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.runtimeconfig.json
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\bin\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.dll
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\bin\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.pdb
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.AssemblyInfoInputs.cache
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.AssemblyInfo.cs
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.csproj.CoreCompileInputs.cache
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.sourcelink.json
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.dll
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\refint\04_Automata_dan_Table-Driven_Construction.dll
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.pdb
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\04_Automata_dan_Table-Driven_Construction.genruntimeconfig.cache
+D:\SEM 4\Praktikum KPL\04_Automata_dan_Table-Driven_Construction\04_Automata_dan_Table-Driven_Construction\obj\Debug\net8.0\ref\04_Automata_dan_Table-Driven_Construction.dll
