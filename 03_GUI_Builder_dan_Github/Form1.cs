@@ -16,5 +16,11 @@ namespace _03_GUI_Builder_dan_Github
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nama = textBox1.Text; 
+            textBox2.Text = "Halo " + nama; 
+        }
     }
 }

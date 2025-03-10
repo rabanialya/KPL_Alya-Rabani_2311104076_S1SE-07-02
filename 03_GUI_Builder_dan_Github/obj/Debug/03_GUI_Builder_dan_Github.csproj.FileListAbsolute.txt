@@ -1,0 +1,10 @@
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\bin\Debug\03_GUI_Builder_dan_Github.exe.config
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\bin\Debug\03_GUI_Builder_dan_Github.exe
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\bin\Debug\03_GUI_Builder_dan_Github.pdb
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\obj\Debug\03_GUI_Builder_dan_Github.csproj.AssemblyReference.cache
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\obj\Debug\_03_GUI_Builder_dan_Github.Form1.resources
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\obj\Debug\_03_GUI_Builder_dan_Github.Properties.Resources.resources
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\obj\Debug\03_GUI_Builder_dan_Github.csproj.GenerateResource.cache
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\obj\Debug\03_GUI_Builder_dan_Github.csproj.CoreCompileInputs.cache
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\obj\Debug\03_GUI_Builder_dan_Github.exe
+D:\SEM 4\Praktikum KPL\03_GUI_Builder_dan_Github\03_GUI_Builder_dan_Github\obj\Debug\03_GUI_Builder_dan_Github.pdb
